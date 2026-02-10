@@ -9,7 +9,7 @@
   "action": {
     "title": "Dice",
     "icon": "assimilacao.png",
-    "popover": " ",
+    "popover": "index.html",
     "height": 700,
     "width": 375
   },
