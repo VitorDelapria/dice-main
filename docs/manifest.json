@@ -4,14 +4,14 @@
   "manifest_version": 1,
   "author": "Owlbear Rodeo",
   "homepage_url": "https://extensions.owlbear.rodeo/dice",
-  "icon": "/assimilacao.png",
-  "description": "Beautiful 3D dice extension for d20 based systems",
+  "icon": "assimilacao.png",
+  "description": "Beautiful 3D dice extension for d20 based system",
   "action": {
     "title": "Dice",
-    "icon": "/assimilacao.png",
-    "popover": "/",
+    "icon": "assimilacao.png",
+    "popover": " ",
     "height": 700,
     "width": 375
   },
-  "background_url": "/background.html"
+  "background_url": "background.html"
 }
