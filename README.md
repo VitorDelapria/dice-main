@@ -1,3 +1,15 @@
+## Créditos e Atribuição
+
+Este projeto é uma modificação (fork) criada para uso pessoal em mesa de RPG.
+
+Todo o código base e a estrutura original pertencem a [(https://github.com/mitchemmc)].
+Projeto original: [(https://github.com/owlbear-rodeo/dice)]
+
+As modificações (dados de assimilação e caos) foram feitas por mim.
+
+### Licença
+Este projeto segue a mesma licença do projeto original.
+
 # Owlbear Rodeo Dice
 
 Beautiful 3D dice extension for d20 based systems
