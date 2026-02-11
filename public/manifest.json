@@ -1,19 +1,17 @@
 {
   "name": "Dice",
-  "version": "2.0.0",
+  "version": "2.0.5",
   "manifest_version": 1,
-  "author": "Owlbear Rodeo",
-  "homepage_url": "https://extensions.owlbear.rodeo/dice",
-  "icon": "/assimilacao.png",
-  "description": "Beautiful 3D dice extension for d20 based system",
+  "author": "Vitor",
+  "homepage_url": "https://vitordelapria.github.io/dice-main/",
+  "icon": "https://vitordelapria.github.io/dice-main/assimilacao.png",
+  "description": "Dados de Assimilacao e Caos",
   "action": {
     "title": "Dice",
-    "icon": "/assimilacao.png",
-    "popover": "/index.html",
+    "icon": "https://vitordelapria.github.io/dice-main/assimilacao.png",
+    "popover": "https://vitordelapria.github.io/dice-main/index.html",
     "height": 700,
     "width": 375
   },
-  "background_url": "/background.html"
+  "background_url": "https://vitordelapria.github.io/dice-main/background.html"
 }
-
-
