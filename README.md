@@ -10,14 +10,13 @@ As modificações (dados de assimilação e caos) foram feitas por mim.
 ### Licença
 Este projeto segue a mesma licença do projeto original.
 
-# Owlbear Rodeo Dice 
-
 Examplo de modificações:
-
 
 ![Example](<img width="543" height="807" alt="Captura de tela 2026-02-12 000248" src="https://github.com/user-attachments/assets/e0ffc5d9-e83c-460c-bb36-8d6e19025718" />).
 
 ![Example](<img width="543" height="827" alt="Captura de tela 2026-02-12 000233" src="https://github.com/user-attachments/assets/dee667d5-ff16-49a7-be36-5beafd4a6ae7" />).
+
+# Owlbear Rodeo Dice 
 
 Beautiful 3D dice extension for d20 based systems
 
